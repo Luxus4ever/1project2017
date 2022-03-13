@@ -1,5 +1,5 @@
 # 1project2017
-Moj prvi projekat iz 2017. godine,   My first project form 2017. 
+Moj prvi projekat iz 2017. godine,   My first project from 2017. 
 Sajt je bio online jedno kratko vrijeme, ali pošto je bio završni projekat nastave, nije imalo svrhu da bude i dalje online. 
 Vizuelno možda ni tada nije bio najbolje urađen (bez obzira što je moj prvi projekat), a razlog tome je što sam se više posvetio backendu, odnosno PHP-u. 
 Tema web sajta je bila proizvoljna, a ja sam izabrao da bude o Tupac Shakuru, njegovi albumi, tekstovi i slično.
